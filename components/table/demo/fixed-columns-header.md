@@ -33,7 +33,7 @@ const columns = [
 ];
 
 const data = [];
-for (let i = 0; i < 100; i++) {
+for (let i = 0; i < 1000; i++) {
   data.push({
     key: i,
     name: `李大嘴${i}`,
